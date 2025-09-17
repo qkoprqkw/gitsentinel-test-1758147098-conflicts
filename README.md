@@ -1,2 +1,3 @@
-# gitsentinel-test-1758147098-conflicts
-Test repository for merge conflicts
+# Test Repository
+
+Initial content for testing merge conflicts.
