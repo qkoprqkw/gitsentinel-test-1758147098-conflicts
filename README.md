@@ -1,3 +1,3 @@
 # Test Repository
 
-Initial content for testing merge conflicts.
+Modified content for feature 2 - conflicts with feature 1.
